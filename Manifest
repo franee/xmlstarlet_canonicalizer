@@ -1,0 +1,9 @@
+Manifest
+README
+Rakefile
+lib/palmade/xmlstarlet_canonicalizer.rb
+spec/saml.xml
+spec/saml_assertion.xml
+spec/spec_helper.rb
+spec/xmlstarlet_canonicalizer_spec.rb
+xmlstarlet_canonicalizer.gemspec
